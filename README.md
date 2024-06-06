@@ -12,3 +12,7 @@ The project uses two main tables:
 
 Credit Card Details
 Credit Card Customer Details
+
+## SQL Queries Used
+![image](https://github.com/Riku1014/Credit-Card-Analysis-Report-SQL/assets/151837914/232e610a-2775-4c64-b665-a2a12b77b419)
+
