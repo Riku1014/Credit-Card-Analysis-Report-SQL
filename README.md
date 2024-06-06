@@ -1,4 +1,5 @@
-![image](https://github.com/Riku1014/Credit-Card-Analysis-Report-SQL/assets/151837914/f2c8d753-ac80-4191-83c4-562f8a29b756)![image](https://github.com/Riku1014/Credit-Card-Analysis-Report-SQL/assets/151837914/ef55fcd7-f65e-4e18-ad29-65469798576d)# Credit Card Customer Analysis Project
+# Credit Card Customer Analysis Project
+
 ## Overview
 This project involves analyzing credit card transaction data using SQL and visualizing the insights using Power BI. The main objectives are to understand spending patterns, detect trends, and generate a comprehensive report on credit card usage.
 
