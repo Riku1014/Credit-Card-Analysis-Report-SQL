@@ -32,8 +32,8 @@ Credit Card Categories: Performance of different card categories (e.g., Blue, Si
 ![image](https://github.com/Riku1014/Credit-Card-Analysis-Report-SQL/assets/151837914/4fa382b4-c0d1-4d1b-a5ed-a56d2f0c7a53)
 
 ## Tools and Technologies
-SQL (MySQL)
-Power BI
+### SQL (MySQL)
+### Power BI
 
 ## Thank You...
 
